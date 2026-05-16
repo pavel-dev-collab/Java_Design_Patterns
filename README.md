@@ -7,7 +7,7 @@ solve recurring design challenges in a clean and efficient way.
 
 # 📁 Project Structure
 <br>
-<img width="800" height="562" alt="image" src="https://github.com/user-attachments/assets/e4a66fe5-6901-41b4-a931-4b835ec7b910" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e4a66fe5-6901-41b4-a931-4b835ec7b910" />
 
 # 🏗️ Creational Patterns
 Creational patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation.
